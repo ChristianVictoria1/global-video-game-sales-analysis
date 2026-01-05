@@ -1,2 +1,2 @@
 # global-video-game-sales-analysis
-Analysis of global video game sales to identify top genres, best-selling games, and market trends
+	This analysis assesses global video game sales to identify top-performing genres, best-selling titles, and long-term sales trends within the gaming industry. The primary objective here is to uncover significant insights that could improve marketing and publishing decisions for game publishers and stakeholders.
